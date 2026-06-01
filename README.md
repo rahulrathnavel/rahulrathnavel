@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0052CC,50:00BFA6,100:6C63FF&text=Rahul%20Rathnavel%20K&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0052CC,50:00BFA6,100:6C63FF&text=Rahul%20Rathnavel%20K&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=00BFA6&center=true&vCenter=true&width=900&lines=Building+LLM+Apps+%26+Agentic+AI+Systems;Solving+Real-World+ML+Problems;Contributing+to+Keras+%26+Matplotlib;750%2B+LeetCode+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=00BFA6&center=true&vCenter=true&width=900&lines=Building+LLM+Apps+%26+Agentic+AI+Systems;Open+Source+Contributor+to+Keras%2C+SciPy+%26+Matplotlib;Amazon+ML+Top+3%25+%7C+Techgium+Top+0.1%25;750%2B+LeetCode+Problems+Solved" />
 
 <br>
 
@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/rahulrathnavel">
   <img src="https://img.shields.io/badge/LinkedIn-rahulrathnavel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/rahulrathnavel">
+<a href="https://leetcode.com/u/rahulrathnavel">
   <img src="https://img.shields.io/badge/LeetCode-750%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -28,7 +28,7 @@
 <img src="https://komarev.com/ghpvc/?username=rahulrathnavel&label=Profile%20Views&color=0052CC&style=flat-square" />
 <img src="https://img.shields.io/badge/Location-Madurai%2C%20India-555555?style=flat-square" />
 <img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20%26%20Data%20Science-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20Source-Keras%20%7C%20Matplotlib-00BFA6?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20Source-Keras%20%7C%20SciPy%20%7C%20Matplotlib-00BFA6?style=flat-square" />
 
 </div>
 
@@ -66,9 +66,9 @@ class RahulRathnavel:
 
 ## Professional Summary
 
-Aspiring AI Engineer with strong experience in **machine learning competitions, LLM-based applications, backend APIs, computer vision, and open source contributions**.
+Aspiring AI Engineer with a strong track record in **national machine learning competitions, LLM-based applications, backend APIs, computer vision, and open source contributions**.
 
-I enjoy turning complex ideas into clean, scalable, and useful systems — from **offline AI applications** and **AIOps engines** to **biometric blockchain systems** and **real-time assistive AI tools**.
+I enjoy transforming complex ideas into clean, scalable, and useful systems — from **offline AI applications** and **AIOps engines** to **biometric blockchain systems** and **real-time assistive AI tools**.
 
 ---
 
@@ -204,15 +204,16 @@ Reported vulnerabilities
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=700&color=0052CC&center=true&vCenter=true&width=850&lines=Contributing+to+real-world+AI+%26+Python+ecosystems;Merged+PRs+in+Keras+and+Matplotlib;Small+fixes.+Real+impact." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=700&color=0052CC&center=true&vCenter=true&width=850&lines=Contributing+to+real-world+Python+ecosystems;Merged+PRs+in+Keras%2C+SciPy+and+Matplotlib;Small+fixes.+Real+impact." />
 
 </div>
 
-| Project | Contribution | Impact |
-|---|---|---|
-| **Keras** | [PR #23005](https://github.com/keras-team/keras/pull/23005) — Added `CITATION.cff` file for GitHub repository citation | Enables GitHub’s native **“Cite this repository”** support for Keras. Tiny file, big citation impact 😄 |
-| **Keras** | [PR #22844](https://github.com/keras-team/keras/pull/22844) — Improved IoU metric validation | Strengthened handling of invalid class IDs and edge-case labels in segmentation evaluation |
-| **Matplotlib** | [PR #31707](https://github.com/matplotlib/matplotlib/pull/31707) — Improved `violinplot` robustness | Fixed empty-dataset handling and prevented plotting-statistics crashes in edge cases |
+| Project | Pull Request | Contribution | Impact |
+|---|---|---|---|
+| **Keras** | [PR #23005](https://github.com/keras-team/keras/pull/23005) | Added `CITATION.cff` file for GitHub repository citation | Enables GitHub’s native **“Cite this repository”** support for Keras. Tiny file, big citation impact 😄 |
+| **Keras** | [PR #22844](https://github.com/keras-team/keras/pull/22844) | Improved IoU metric validation | Strengthened handling of invalid class IDs and edge-case labels in segmentation evaluation |
+| **SciPy** | [PR #25209](https://github.com/scipy/scipy/pull/25209) | Suppressed unknown pytest mark warnings for `pytest_configure` | Improved SciPy test reliability by addressing `PytestUnknownMarkWarning` around array API backend markers |
+| **Matplotlib** | [PR #31707](https://github.com/matplotlib/matplotlib/pull/31707) | Improved `violinplot` robustness | Fixed empty-dataset handling and helped prevent plotting-statistics crashes in edge cases |
 
 ---
 
@@ -285,7 +286,7 @@ Reported vulnerabilities
 
 ### Data Analytics & Visualization Systems
 
-**Tech:** Python, Pandas, NumPy, Power BI, Matplotlib, Seaborn
+**Tech:** Python, Pandas, NumPy, SciPy, Power BI, Matplotlib, Seaborn
 
 - Processed 50,000+ records during internship analytics work.
 - Built visualization pipelines and classification models.
@@ -313,40 +314,104 @@ Reported vulnerabilities
 
 <div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Certified%20Associate%20Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Specialization-0052CC?style=for-the-badge)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative%20AI%20Diffusion%20Models-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-OCI%20DevOps%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<a href="https://www.credly.com/go/OEg6CNOK">
+  <img src="https://img.shields.io/badge/MongoDB-Certified%20Associate%20Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+
+<a href="https://learn.deeplearning.ai/certificates/89a38ade-00c7-4529-b310-bfd7afcab406">
+  <img src="https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Specialization-0052CC?style=for-the-badge" />
+</a>
+
+<a href="https://learn.nvidia.com/certificates?id=38qr9xXrQIyKw2SgQbxWCA#">
+  <img src="https://img.shields.io/badge/NVIDIA-Generative%20AI%20Diffusion%20Models-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</a>
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A8139227C73189F8941EB0D3C849EE8D8ED0D9E9D1CBE27574A533AC71CBE5F3">
+  <img src="https://img.shields.io/badge/Oracle-OCI%20DevOps%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B42928F372E46F10936622F13DC624CB0D3881A4AFE3291E299D3CFCA309160">
+  <img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</a>
+
+<a href="https://www.datacamp.com/certificate/DS0025618761485">
+  <img src="https://img.shields.io/badge/DataCamp-Data%20Scientist%20Professional-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" />
+</a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulrathnavel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathnavel&theme=tokyonight&hide_border=true" />
-
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Open%20Source-4%2B%20Merged%20PRs-00BFA6?style=for-the-badge&logo=github&logoColor=white" />
 <br><br>
+<b>Keras · SciPy · Matplotlib</b>
+<br>
+Real-world Python ecosystem contributions
+</td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathnavel&layout=compact&theme=tokyonight&hide_border=true" />
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Problem%20Solving-750%2B%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 <br><br>
+<b>Rating: 2108</b>
+<br>
+Data Structures and Algorithms
+</td>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulrathnavel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/AI%20Projects-LLM%20%7C%20CV%20%7C%20RAG-6C63FF?style=for-the-badge" />
+<br><br>
+<b>Applied AI</b>
+<br>
+LLMs, computer vision, and automation
+</td>
+
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Backend-APIs%20%7C%20Docker%20%7C%20K8s-0052CC?style=for-the-badge" />
+<br><br>
+<b>Production Focus</b>
+<br>
+Scalable backend and deployment systems
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathnavel&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## Why I Build
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrathnavel&theme=tokyo-night&hide_border=true&area=true" />
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>Learn Deeply</h3>
+<p>I focus on understanding systems from the fundamentals, not just using tools.</p>
+</td>
+
+<td align="center" width="33%">
+<h3>Build Practically</h3>
+<p>I enjoy creating real, usable projects with production-style structure and deployment thinking.</p>
+</td>
+
+<td align="center" width="33%">
+<h3>Contribute Meaningfully</h3>
+<p>I believe even small open source fixes can create real impact for large developer communities.</p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -365,7 +430,7 @@ Reported vulnerabilities
 <a href="https://www.linkedin.com/in/rahulrathnavel">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://leetcode.com/rahulrathnavel">
+<a href="https://leetcode.com/u/rahulrathnavel">
   <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
@@ -376,10 +441,6 @@ Reported vulnerabilities
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00BFA6&center=true&vCenter=true&width=850&lines=Code+with+passion.;Build+with+purpose.;Contribute+with+impact.;Engineer+the+future." />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 <br><br>
 
