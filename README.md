@@ -1,17 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=0052CC&center=true&vCenter=true&width=900&lines=Rahul+Rathnavel+K;AI+Engineer+%26+Backend+Developer;Building+Intelligent+Agentic+Systems" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0052CC,50:00BFA6,100:6C63FF&text=Rahul%20Rathnavel%20K&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=00BFA6&center=true&vCenter=true&width=900&lines=Building+LLM+Apps+%26+Agentic+AI+Systems;Solving+Real-World+ML+Problems;Contributing+to+Keras+%26+Matplotlib;750%2B+LeetCode+Problems+Solved" />
 
 <br>
 
-**Passionate about AI-driven automation, backend architecture, and intelligent agent systems — turning complex ideas into scalable, real-world solutions.**
+<b>Passionate about AI, backend systems, open source, and building production-ready intelligent applications.</b>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Status-Aspiring_AI_Engineer-0052CC?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Focus-Agentic_Systems-009688?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Degree-AI_%26_Data_Science-FF6F00?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Location-Madurai,_India-555?style=flat-square&labelColor=0a0a0a" />
+<a href="mailto:rahulrathnavel15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rahulrathnavel15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/rahulrathnavel">
+  <img src="https://img.shields.io/badge/GitHub-rahulrathnavel-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rahulrathnavel">
+  <img src="https://img.shields.io/badge/LinkedIn-rahulrathnavel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/rahulrathnavel">
+  <img src="https://img.shields.io/badge/LeetCode-750%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rahulrathnavel&label=Profile%20Views&color=0052CC&style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Madurai%2C%20India-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/Degree-B.Tech%20AI%20%26%20Data%20Science-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20Source-Keras%20%7C%20Matplotlib-00BFA6?style=flat-square" />
 
 </div>
 
@@ -20,28 +37,38 @@
 ## About Me
 
 ```python
-class AIEngineer:
-
+class RahulRathnavel:
     def __init__(self):
-        self.name       = "Rahul Rathnavel K"
-        self.location   = "Madurai, Tamil Nadu, India"
-        self.education  = "B.Tech — Artificial Intelligence & Data Science"
-
-    class TechStack:
-
-        languages   = ["Python", "Java", "TypeScript", "JavaScript", "Node.js"]
-        ai_ml       = ["LangChain", "LlamaIndex", "TensorFlow", "PyTorch", "ChromaDB", "Agentic AI"]
-        databases   = ["PostgreSQL", "MongoDB", "MySQL", "Firebase"]
-        infra       = ["Docker", "Flask", "REST APIs", "Backend Systems"]
-
-    def current_focus(self):
-        return [
-            "Architecting Multimodal RAG Systems",
-            "Decentralized AI biometric systems",
-            "Optimizing vector search pipelines",
-            "Scalable backend architectures"
+        self.role = "Aspiring AI Engineer"
+        self.education = "B.Tech - Artificial Intelligence and Data Science"
+        self.location = "Madurai, Tamil Nadu, India"
+        self.interests = [
+            "LLM Applications",
+            "Agentic AI Systems",
+            "Computer Vision",
+            "Backend Engineering",
+            "Open Source Contribution"
         ]
+
+    def currently_building(self):
+        return [
+            "Offline AI AAC application using on-device LLMs",
+            "Autonomous AIOps incident resolution engine",
+            "AI-powered blockchain biometric voting system",
+            "Real-time assistive AI systems"
+        ]
+
+    def mindset(self):
+        return "Learn deeply. Build practically. Contribute meaningfully."
 ```
+
+---
+
+## Professional Summary
+
+Aspiring AI Engineer with strong experience in **machine learning competitions, LLM-based applications, backend APIs, computer vision, and open source contributions**.
+
+I enjoy turning complex ideas into clean, scalable, and useful systems — from **offline AI applications** and **AIOps engines** to **biometric blockchain systems** and **real-time assistive AI tools**.
 
 ---
 
@@ -49,46 +76,79 @@ class AIEngineer:
 
 <div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,cs,solidity" />
-
-<br><br>
-
-**Backend & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask,docker,postgres,mysql,mongodb,firebase,arduino" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,bash,kotlin,solidity" />
 
 <br><br>
 
-**AI / ML Frameworks**
+### AI / ML / Data Science
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+
+<br>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0052CC?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00BFA6?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
+![Vector Database](https://img.shields.io/badge/Vector%20Database-FF6F00?style=flat-square)
+![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-111111?style=flat-square)
+
+<br><br>
+
+### Web / Backend / Infrastructure
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,fastapi,docker,kubernetes,aws,git,postman" />
+
+<br><br>
+
+### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,arduino" />
+
+<br>
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-00BFA6?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-0052CC?style=flat-square)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-6C63FF?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=flat-square)
 
 </div>
 
 ---
 
-## Specializations
+## Core Focus Areas
 
 <table>
 <tr>
 <td width="50%">
 
-- Agentic AI Systems
-- Retrieval Augmented Generation (RAG)
-- Vector Databases & Embeddings
-- Backend System Architecture
-- Blockchain + AI Integration
+### AI / ML Engineering
+
+- LLM applications
+- RAG and vector search
+- Model fine-tuning
+- NLP and computer vision
+- Feature engineering
+- Model deployment
 
 </td>
 <td width="50%">
 
-- Prompt Engineering
-- Model Fine-tuning
-- REST API Development
-- Docker Containerization
-- Hardware + Software Integration
+### Software Engineering
+
+- Backend API development
+- Scalable system architecture
+- Docker containerization
+- Kubernetes deployment
+- Database design
+- Production-style project building
 
 </td>
 </tr>
@@ -102,26 +162,36 @@ class AIEngineer:
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-**Amazon ML Hackathon 2025**
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Amazon%20ML-Top%203%25-FF9900?style=for-the-badge&logo=amazon&logoColor=black" />
+<br><br>
+<b>Rank 112 / 4000+</b>
 <br>
-Top 3% &nbsp;·&nbsp; Rank **110 / 4000+**
-
+Amazon ML Challenge 2025
 </td>
-<td align="center" width="33%">
 
-**LeetCode**
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Techgium-Top%200.1%25-0052CC?style=for-the-badge" />
+<br><br>
+<b>National Finalist</b>
 <br>
-**400+** Problems Solved
-
+Rank 34 / 39,000+
 </td>
-<td align="center" width="33%">
 
-**Kaggle Red Team Hackathon**
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/LeetCode-750%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<br><br>
+<b>Rating: 2108</b>
 <br>
-Reported vulnerabilities in GPT-OSS 120B
+DSA Problem Solving
+</td>
 
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Kaggle-Red%20Team-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<br><br>
+<b>GPT-OSS 120B</b>
+<br>
+Reported vulnerabilities
 </td>
 </tr>
 </table>
@@ -130,46 +200,173 @@ Reported vulnerabilities in GPT-OSS 120B
 
 ---
 
-## Certifications
+## Open Source Contributions
 
 <div align="center">
 
-![Oracle](https://img.shields.io/badge/Oracle_OCI-Generative_AI-F80000?style=flat-square&logo=oracle&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative_AI_Diffusion_Models-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-Foundational_AI-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data_Analysis-FF6F00?style=flat-square)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=700&color=0052CC&center=true&vCenter=true&width=850&lines=Contributing+to+real-world+AI+%26+Python+ecosystems;Merged+PRs+in+Keras+and+Matplotlib;Small+fixes.+Real+impact." />
 
 </div>
+
+| Project | Contribution | Impact |
+|---|---|---|
+| **Keras** | [PR #23005](https://github.com/keras-team/keras/pull/23005) — Added `CITATION.cff` file for GitHub repository citation | Enables GitHub’s native **“Cite this repository”** support for Keras. Tiny file, big citation impact 😄 |
+| **Keras** | [PR #22844](https://github.com/keras-team/keras/pull/22844) — Improved IoU metric validation | Strengthened handling of invalid class IDs and edge-case labels in segmentation evaluation |
+| **Matplotlib** | [PR #31707](https://github.com/matplotlib/matplotlib/pull/31707) — Improved `violinplot` robustness | Fixed empty-dataset handling and prevented plotting-statistics crashes in edge cases |
 
 ---
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **Multimodal Agentic RAG System** | Production-ready RAG system with autonomous agents for search, reasoning, and tool execution — with optimized vector indexing pipelines. |
-| **AI-Powered Blockchain Voting** | Secure decentralized voting system integrating biometric AI verification with blockchain smart contracts. |
-| **Real-Time Chat Application** | Android messaging app using MVVM architecture with Firebase real-time sync and authentication. |
+<table>
+<tr>
+<td width="50%">
+
+### Voice Surrogate — Offline AI AAC Application
+
+**Tech:** Kotlin, Jetpack Compose, Gemma, LiteRT-LM
+
+- Built an offline Android application for non-speaking individuals.
+- Integrated speech recognition, text-to-speech, local memory, and smart reply generation.
+- Designed a 4-state conversational pipeline for real-time assistive communication.
+
+</td>
+<td width="50%">
+
+### Amazon ML Challenge — Product Price Prediction
+
+**Tech:** Python, PyTorch, Transformers, XGBoost
+
+- Built price prediction pipelines on a 75K+ product dataset.
+- Fine-tuned DeBERTa-small and benchmarked ensemble models.
+- Achieved **Top 3%** ranking in Amazon ML Challenge 2025.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### SmartOps — Autonomous Incident Resolution Engine
+
+**Tech:** Python, AWS, Docker, Kubernetes, ML
+
+- Built an AI-driven AIOps engine for fault detection and automated resolution.
+- Containerized log-analysis services using Docker.
+- Deployed Kubernetes/EKS-based prototype for Techgium 2026.
+
+</td>
+<td width="50%">
+
+### AI Smart Glass Assistive System
+
+**Tech:** Flutter, FastAPI, YOLO, ViT, ESP32-CAM
+
+- Developed real-time object detection using YOLO-Nano and ViT.
+- Deployed models through FastAPI REST endpoints.
+- Integrated lightweight LLM-based voice assistance.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### AI-Powered Blockchain Voting System
+
+**Tech:** Next.js, TypeScript, Node.js, Python, Solidity, Arduino
+
+- Built a decentralized voting system with biometric verification.
+- Integrated Arduino fingerprint sensor, face recognition, and smart contracts.
+- Designed a production-style frontend and backend architecture.
+
+</td>
+<td width="50%">
+
+### Data Analytics & Visualization Systems
+
+**Tech:** Python, Pandas, NumPy, Power BI, Matplotlib, Seaborn
+
+- Processed 50,000+ records during internship analytics work.
+- Built visualization pipelines and classification models.
+- Reduced manual analytical reporting effort using dashboards.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Professional Experience
+## Internship Experience
 
-**Data Analyst Intern — Soft Stor Technology**
+### Data Analyst Intern — Soft Stor Technology  
+**Jun 2024 – Aug 2024**
 
-Performed large-scale data analysis using Python (Pandas, NumPy), built visualization pipelines with Matplotlib & Seaborn, and applied statistical modeling techniques for analytics systems.
+- Processed **50,000+ records** from large-scale open-source datasets.
+- Identified operational trends to support business decision-making.
+- Built machine learning classification models and Power BI dashboards.
+- Improved data-driven reporting efficiency for business stakeholders.
 
+---
 
-## Connect
+## Certifications
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Certified%20Associate%20Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Deep%20Learning%20Specialization-0052CC?style=for-the-badge)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Generative%20AI%20Diffusion%20Models-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCI%20DevOps%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rahulrathnavel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrathnavel&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulrathnavel&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahulrathnavel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrathnavel&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## Let’s Connect
 
 <div align="center">
 
 <a href="mailto:rahulrathnavel15@gmail.com">
-<img src="https://img.shields.io/badge/Email-rahulrathnavel15%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/rahulratho15">
-<img src="https://img.shields.io/badge/GitHub-rahulratho15-181717?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/rahulrathnavel">
+  <img src="https://img.shields.io/badge/GitHub-rahulrathnavel-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rahulrathnavel">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/rahulrathnavel">
+  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
@@ -178,10 +375,14 @@ Performed large-scale data analysis using Python (Pandas, NumPy), built visualiz
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0052CC&center=true&vCenter=true&width=750&lines=Code+with+passion.+Build+with+purpose.+Engineer+the+future." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00BFA6&center=true&vCenter=true&width=850&lines=Code+with+passion.;Build+with+purpose.;Contribute+with+impact.;Engineer+the+future." />
 
-<br>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00BFA6,100:0052CC" />
 
 </div>
