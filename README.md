@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0052CC,50:00BFA6,100:6C63FF&text=Rahul%20Rathnavel%20K&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=00BFA6&center=true&vCenter=true&width=880&lines=%C2%A0Building+LLM+Apps+%26+Agentic+AI+Systems;%C2%A0Open+Source+Contributor+to+Keras%2C+SciPy%2C+Matplotlib%2C+Statsmodels;%C2%A0Amazon+ML+Top+3%25+%7C+Techgium+Top+0.1%25;%C2%A0850%2B+LeetCode+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=800&color=00BFA6&center=true&vCenter=true&width=880&lines=%C2%A0Building+LLM+Apps+%26+Agentic+AI+Systems;%C2%A0Open+Source+Contributor+to+Keras%2C+SciPy%2C+Matplotlib%2C;%C2%A0Amazon+ML+Top+3%25+%7C+Techgium+Top+0.1%25;%C2%A0850%2B+LeetCode+Problems+Solved" />
 <br>
 
 <b>Passionate about AI, backend systems, open source, and building production-ready intelligent applications.</b>
