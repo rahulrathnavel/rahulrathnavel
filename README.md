@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-rahulrathnavel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/rahulrathnavel">
-  <img src="https://img.shields.io/badge/LeetCode-750%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-850%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br><br>
