@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-rahulrathnavel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/rahulrathnavel">
-  <img src="https://img.shields.io/badge/LeetCode-1000%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-1000+%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br><br>
@@ -164,7 +164,7 @@ I enjoy transforming complex ideas into clean, scalable, and useful systems — 
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Amazon%20ML-Top%203%25-FF9900?style=for-the-badge&logo=amazon&logoColor=black" />
 <br><br>
-<b>Rank 112 / 4000+</b>
+<b>Rank 83 / 4000+</b>
 <br>
 Amazon ML Challenge 2025
 </td>
